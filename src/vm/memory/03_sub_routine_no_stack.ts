@@ -1,6 +1,7 @@
 import { Instruction } from "../instructions";
 
 // THIS IS SUPPOSED TO CRASH
+//because we are using stack-pointer and since we defined sp as last index, it will overwrite 40 on last iteration
 //
 //
 //

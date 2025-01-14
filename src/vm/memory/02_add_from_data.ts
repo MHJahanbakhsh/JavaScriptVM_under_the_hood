@@ -14,7 +14,7 @@ export default [
   2,
   Instruction.STORE_R0_TO_ADDR_A0_PLUS_AE0,
   Instruction.HALT,
-  3, // DATA section
+  3,
   5,
   0,
 ];

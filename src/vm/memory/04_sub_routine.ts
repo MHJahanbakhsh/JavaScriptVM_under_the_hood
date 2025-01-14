@@ -34,7 +34,7 @@ export default [
   20,
   30,
   40,
-  0, // STACK space
+  0, // STACK space. even one zero does the job. we dont need 4
   0,
   0,
   0,
